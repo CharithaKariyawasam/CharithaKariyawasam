@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I'm Charitha Kariyawasam, a final year computer science undergraduate.
+
+🔭  I’m currently working on something cool 😉   
+🌱 I’m currently learning front-end development  
+⚡ Fun fact: Coding 👩🏻‍💻 while listening to music 🎧 is my Escape From Reality.
+
 <!--
 **CharithaKariyawasam/CharithaKariyawasam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
