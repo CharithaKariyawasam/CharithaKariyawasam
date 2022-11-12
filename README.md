@@ -2,8 +2,8 @@
 
 I'm Charitha Kariyawasam, a final year computer science undergraduate.
 
-🔭  I’m currently working on something cool 😉   
-🌱 I’m currently learning front-end development  
+🔭 I’m currently working on something cool 😉   
+🌱 Currently learning front-end development  
 ⚡ Fun fact: Coding 👩🏻‍💻 while listening to music 🎧 is my Escape From Reality.
 
 <!--
